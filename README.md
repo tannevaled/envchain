@@ -46,6 +46,12 @@ $ cp ./envchain ~/bin/
 ```
 brew install envchain
 ```
+### pkgx (OS X / Linux)
+
+To use a versioned binary
+```
+pkgx +github.com/sorah/envchain^1.1.0 envchain
+```
 
 ## Usage
 
